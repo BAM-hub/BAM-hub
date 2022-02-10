@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BAM-hub
-- 👀 I’m interested in fullsatck development with javaScript
+- 👀 I’m interested in fullstack development with javaScript
 - 🌱 I’m currently learning nest.js/graphql
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me bsharamin12@gmail.com

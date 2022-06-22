@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @BAM-hub
-- 👀 I’m interested in fullstack development with javaScript
-- 🌱 I’m currently looking for a job, always learning
-- 💞️ I’m looking to collaborate on some projects
+### Hi there , I’m  Bshar Amin aka BAM. 👋 
+
+
+## 🚀 About Me
+
+##  I’m a graduate interested in fullstack development with javaScript and exploring new technologies. 👀
+
+- 🌱 I’m currently looking for a job, always learning and working on my own projects.
+- 💞️ I’m looking to collaborate on some projects.
+- :chart: 2022 Goals Learn and make projects in typescript and more.
 - 📫 How to reach me bsharamin12@gmail.com
 
-<!---
-BAM-hub/BAM-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br />
+
+## Tech Stack
+
+**Client:** React, Redux, React Native, CSS
+
+**Server:** Node, Express, GraphQL, typegraphql, Django, Laravel
+
+**Database:** SQL, NoSQL, MySQL, MongoDB
+
+**Tools:** VsCode, Figgma
+
+
+<br />
+<br />

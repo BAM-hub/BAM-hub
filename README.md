@@ -12,6 +12,17 @@
 
 <br />
 
+## :computer: Technical
+## Languages
+
+* Javascript 
+* TypeScript 
+* Java 
+* Python
+* PHP
+
+<br/>
+
 ## Tech Stack
 
 **Client:** React, Redux, React Native, CSS

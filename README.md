@@ -31,4 +31,4 @@
 
 **Database:** SQL, NoSQL, MySQL, MongoDB
 
-**Tools:** VsCode, Figgma
+**Tools:** VsCode, Figma

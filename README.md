@@ -25,10 +25,10 @@
 
 ## Tech Stack
 
-**Client:** React, Redux, React Native, CSS
+**Client:** React, Nextjs, Redux, React Native, CSS
 
 **Server:** Node, Express, GraphQL, typegraphql, Django, Laravel
 
 **Database:** SQL, NoSQL, MySQL, MongoDB
 
-**Tools:** VsCode, Figma
+**Tools:** VsCode, Figma, Post Man

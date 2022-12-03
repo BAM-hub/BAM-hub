@@ -17,18 +17,16 @@
 
 * Javascript 
 * TypeScript 
-* Java 
-* Python
 * PHP
 
 <br/>
 
 ## Tech Stack
 
-**Client:** React, Nextjs, Redux, React Native, CSS
+**Client:** React, Nextjs, Redux, React Native, CSS, Razor
 
-**Server:** Node, Express, GraphQL, typegraphql, Django, Laravel
+**Server:** Node, Express, GraphQL, typegraphql, Laravel
 
 **Database:** SQL, NoSQL, MySQL, MongoDB
 
-**Tools:** VsCode, Figma, Post Man
+**Tools:** VsCode, Figma, Post Man, Android Studio, Browser console 
